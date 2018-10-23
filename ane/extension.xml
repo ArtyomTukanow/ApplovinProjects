@@ -1,0 +1,13 @@
+<extension xmlns="http://ns.adobe.com/air/extension/31.0">
+        <id>com.applovinextension.xml</id>
+        <versionNumber>1</versionNumber>
+        <platforms>
+                <platform name="Android-ARM">
+                        <applicationDeployment>
+                                <nativeLibrary>nativeApplovinExtension.jar</nativeLibrary>
+                                <initializer>com.applovinextension.java.ApplovinExtension</initializer>
+                                <finalizer>com.applovinextension.java.ApplovinExtension</finalizer>
+                        </applicationDeployment>
+                </platform>
+        </platforms>
+</extension>
