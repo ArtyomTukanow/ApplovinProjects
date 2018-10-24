@@ -51,7 +51,7 @@ public class AppButton extends Sprite {
     private function drawShape(color:uint):void {
         shape.graphics.clear();
         shape.graphics.beginFill(color);
-        shape.graphics.drawRect(0, 0, 280, 50);
+        shape.graphics.drawRect(0, -25, 280, 100);
         shape.graphics.endFill();
     }
 

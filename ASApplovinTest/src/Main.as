@@ -20,18 +20,17 @@ public class Main extends Sprite {
         Multitouch.inputMode = MultitouchInputMode.TOUCH_POINT;
 
         ApplovinExtension.init();
+        ApplovinExtension.initializeSdk();
+
         var button:AppButton = new AppButton("Нажми для теста");
         addChild(button);
         button.x = (stage.stageWidth - button.width) / 2;
-        button.y = 250;
-
+        button.y = (stage.stageHeight - button.height) / 2;
         button.addEventListener(MouseEvent.CLICK, onButtonClick);
     }
 
     private function onButtonClick(e:MouseEvent):void {
-//        ApplovinExtension.showToast("Hello world");
-        var number:Object = ApplovinExtension.outputTest(10);
-        trace(number);
+        trace(ApplovinExtension.nextAdd());
     }
 
     private function deactivate(e:Event):void {

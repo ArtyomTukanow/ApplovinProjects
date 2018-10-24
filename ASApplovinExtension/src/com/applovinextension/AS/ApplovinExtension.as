@@ -15,9 +15,12 @@ public class ApplovinExtension {
         context.call("showToast", toastText);
     }
 
-    public static function outputTest(number:int):Object {
-        return context.call("outputTest", number);
+    public static function initializeSdk():Object {
+        return context.call("initializeSdk");
     }
 
+    public static function nextAdd():Object {
+        return context.call("nextAdd");
+    }
 }
 }

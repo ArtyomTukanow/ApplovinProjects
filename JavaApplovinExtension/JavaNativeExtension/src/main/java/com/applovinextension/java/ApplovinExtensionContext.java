@@ -18,7 +18,8 @@ public class ApplovinExtensionContext extends FREContext {
     public Map<String, FREFunction> getFunctions() {
         Map<String, FREFunction> map = new HashMap<String, FREFunction>();
         map.put("showToast", new ShowToastFunction());
-        map.put("outputTest", new OutputTestFunction());
+        map.put("initializeSdk", new ApplovinInitFunction());
+        map.put("nextAdd", new NextAdFunction());
         return map;
     }
 }
