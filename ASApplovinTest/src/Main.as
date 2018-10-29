@@ -2,49 +2,69 @@ package {
 
 import com.applovinextension.AS.ApplovinExtension;
 
-import flash.desktop.NativeApplication;
 import flash.display.Sprite;
 import flash.display.StageAlign;
 import flash.display.StageScaleMode;
-import flash.events.Event;
 import flash.events.MouseEvent;
 import flash.ui.Multitouch;
 import flash.ui.MultitouchInputMode;
 
 public class Main extends Sprite {
+
+    private var _textCounter:TabloTextField;
+
     public function Main() {
         stage.scaleMode = StageScaleMode.NO_SCALE;
         stage.align = StageAlign.TOP_LEFT;
-        stage.addEventListener(Event.DEACTIVATE, deactivate);
 
         Multitouch.inputMode = MultitouchInputMode.TOUCH_POINT;
 
         ApplovinExtension.init();
         ApplovinExtension.initializeSdk();
 
-        var button1:AppButton = new AppButton("Start test activity");
-        addChild(button1);
-        button1.x = (stage.stageWidth - button1.width) / 2;
-        button1.y = (stage.stageHeight - button1.height) / 4;
-        button1.addEventListener(MouseEvent.CLICK, onButtonClick1);
 
-        var button2:AppButton = new AppButton("Show AD");
-        addChild(button2);
-        button2.x = (stage.stageWidth - button2.width) / 2;
-        button2.y = (stage.stageHeight - button2.height) / 1.5;
-        button2.addEventListener(MouseEvent.CLICK, onButtonClick2);
+        _textCounter = new TabloTextField();
+        addChild(_textCounter);
+        _textCounter.width =
+                _textCounter.x = (stage.stageWidth) / 2;
+        _textCounter.y = 100;
+
+        var simpleAdBtn:AppButton = new AppButton("Show AD");
+        addChild(simpleAdBtn);
+        simpleAdBtn.x = (stage.stageWidth - simpleAdBtn.width) / 2;
+        simpleAdBtn.y = 300;
+        simpleAdBtn.addEventListener(MouseEvent.CLICK, onSimpleAdBtnClick);
+
+        var rewardAdBtn:AppButton = new AppButton("Show Reward AD");
+        addChild(rewardAdBtn);
+        rewardAdBtn.x = (stage.stageWidth - rewardAdBtn.width) / 2;
+        rewardAdBtn.y = 500;
+        rewardAdBtn.addEventListener(MouseEvent.CLICK, onRewardAdBtnClick);
+
+        ApplovinExtension.addEventListener(ApplovinExtension.LEVEL_REWARD_AD, ApplovinExtension.CODE_REWARD_VERIFIED, onRewardVerified);
     }
 
-    private function onButtonClick1(e:MouseEvent):void {
-        trace(ApplovinExtension.showTestActivity());
+
+
+
+
+    /*
+
+    EVENTS
+
+     */
+
+    private function onSimpleAdBtnClick(e:MouseEvent):void {
+        ApplovinExtension.nextAdd();
     }
 
-    private function onButtonClick2(e:MouseEvent):void {
-        trace(ApplovinExtension.nextAdd());
+
+    private function onRewardAdBtnClick(e:MouseEvent):void {
+        ApplovinExtension.rewardedAd();
     }
 
-    private function deactivate(e:Event):void {
-        NativeApplication.nativeApplication.exit();
+    private function onRewardVerified():void {
+        _textCounter.addRewardCount();
     }
 }
 }

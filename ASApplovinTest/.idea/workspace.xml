@@ -2,789 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b29dedf-3b5b-4807-a2f0-f79184724567" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TabloTextField.as" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestKillMe/Main-app.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASApplovinExtension/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ASApplovinExtension/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASApplovinExtension/out/production/ASApplovinExtension/ASApplovinExtension.swc" beforeDir="false" afterPath="$PROJECT_DIR$/../ASApplovinExtension/out/production/ASApplovinExtension/ASApplovinExtension.swc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASApplovinExtension/src/com/applovinextension/AS/ApplovinExtension.as" beforeDir="false" afterPath="$PROJECT_DIR$/../ASApplovinExtension/src/com/applovinextension/AS/ApplovinExtension.as" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ASApplovinTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ASApplovinTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main-app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Main-app.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ASApplovinTest/Main-app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ASApplovinTest/Main-app.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ASApplovinTest/Main.apk" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ASApplovinTest/Main.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ASApplovinTest/Main.swf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ASApplovinTest/Main.swf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.as" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BUILD_ANE.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../BUILD_ANE.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/ApplovinExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/ApplovinExtension.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/ApplovinExtensionContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/ApplovinExtensionContext.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/ApplovinInitFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/ApplovinInitFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/NextAdFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/NextAdFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/ShowToastFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/ShowToastFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/RewardedAdFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/RewardedAdFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/ShowTestActivityFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/ShowTestActivityFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ane/android/library.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ane/android/library.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ane/applovinExtension.ane" beforeDir="false" afterPath="$PROJECT_DIR$/../ane/applovinExtension.ane" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ane/extension.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ane/extension.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AdViewController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AppLovinAdView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AppLovinAdViewDisplayErrorCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AppLovinAdViewEventListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AppLovinConfirmationActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AppLovinIncentivizedInterstitial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AppLovinInterstitialActivity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AppLovinInterstitialAd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AppLovinInterstitialAdDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AppLovinMediatedIncentivizedInterstitial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AppLovinMediatedInterstitialAd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/AppLovinTouchToClickListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/ClickTrackingOverlayView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/InterstitialAdDialogCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/adview/c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/g.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/h.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/i.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/j.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/k.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/l.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/m.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/n.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/o.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/p.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/q.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/r.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/a/s.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/AdViewControllerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/AppLovinVideoView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/InterstitialAdDialogCreatorImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/MediatedInterstitialAdDialogCreatorImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/aa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ae.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/af.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ah.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/aj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/al.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/am.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/an.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/aq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/as.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/at.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/au.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/av.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/aw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/az.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ba.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/be.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/br.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/by.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/bz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ca.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/co.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/cs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/ct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/g.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/h.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/i.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/j.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/k.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/l.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/m.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/n.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/o.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/p.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/q.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/r.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/s.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/t.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/u.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/v.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/w.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/x.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/y.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/adview/z.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/AppLovinAdServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/AppLovinInternalSdkSettings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/AppLovinSdkImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/EventServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/MediationServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/NativeAdImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/PostbackServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/aa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ae.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/af.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ah.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/aj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/al.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/am.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/an.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/aq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/as.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/at.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/au.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/av.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/aw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/az.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ba.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/be.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/br.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/by.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/bz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ca.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/co.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/cz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/da.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/db.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/de.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/df.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/di.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/do.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/du.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/dz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/eb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/eg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/eh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ei.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ej.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ek.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/el.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/em.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/en.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/eo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/eq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/er.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/es.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/et.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/eu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ev.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ew.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ez.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ft.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/fz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/g.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ga.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/gb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/gc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/gd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/ge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/gf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/gg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/gh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/gi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/gj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/gk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/gl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/gm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/h.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/i.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/j.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/k.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/l.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/m.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/n.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/o.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/p.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/q.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/r.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/s.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/t.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/u.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/v.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/w.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/x.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/y.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/impl/sdk/z.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/mediation/AppLovinMediatedAdInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/mediation/AppLovinMediationAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/mediation/AppLovinMediationAdapterConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/mediation/AppLovinMediationAdapterInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/mediation/AppLovinMediationAdapterStats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/mediation/AppLovinMediationAdapterStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/mediation/AppLovinMediationDisplayListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/mediation/AppLovinMediationErrorCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/mediation/AppLovinMediationLoadListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/nativeAds/AppLovinNativeAd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/nativeAds/AppLovinNativeAdLoadListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/nativeAds/AppLovinNativeAdPrecacheListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/nativeAds/AppLovinNativeAdService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinAd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinAdClickListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinAdDisplayListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinAdLoadListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinAdRewardListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinAdService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinAdSize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinAdType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinAdUpdateListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinAdVideoPlaybackListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinErrorCodes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinEventParameters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinEventService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinEventTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinMediationProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinMediationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinPostbackListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinPostbackService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinPrivacySettings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinSdk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinSdkSettings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovin/sdk/AppLovinSdkUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovinextension/java/ApplovinExtension.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovinextension/java/ApplovinExtensionContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovinextension/java/BuildConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovinextension/java/functions/ApplovinInitFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovinextension/java/functions/NextAdFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovinextension/java/functions/NextAdFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/applovinextension/java/functions/ShowToastFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/auth/GoogleAuthException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/auth/GoogleAuthUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/auth/GooglePlayServicesAvailabilityException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/auth/UserRecoverableAuthException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/auth/UserRecoverableNotifiedException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/AccountPicker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/ConnectionResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/GooglePlayServicesClient$ConnectionCallbacks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/GooglePlayServicesClient$OnConnectionFailedListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/GooglePlayServicesClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/GooglePlayServicesNotAvailableException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/GooglePlayServicesUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/Scopes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/SignInButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/data/DataBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/data/DataBufferIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/data/DataBufferRef.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/data/DataBufferUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/data/DataHolder$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/data/DataHolder$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/data/DataHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/data/DataHolderCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/data/EntityBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/data/Freezable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/images/ImageManager$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/images/ImageManager$ImageReceiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/images/ImageManager$ListenerHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/images/ImageManager$OnImageLoadedListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/images/ImageManager$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/images/ImageManager$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/images/ImageManager$c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/common/images/ImageManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/dynamic/LifecycleDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/a$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aa$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aa$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aa$c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aa$d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aa$e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aa$f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ab$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ab$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ae$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ae$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ae.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af$c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af$d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af$e$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af$e$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af$e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af$f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af$g.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af$h.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af$i.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/af.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ag$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ag$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ag$c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ah.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$g.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$h.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$i.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$j.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$k.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$l.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai$m.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aj$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aj$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aj$c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/al$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/al$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/al.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/am$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/am.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/an.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ar$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ar$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/as$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/as$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/as.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/at.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/au$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/au$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/au.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/av$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/av$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/av.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/aw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ax$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ax$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/az$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/az$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/az.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/b$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/b$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ba.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bc$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bc$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/be.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bf$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bk$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bk$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bm$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bm$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bp$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bp$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/br$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/br$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/br.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bu$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bu$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bv.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/by.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/bz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ca.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/cb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/cc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/cd$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/cd$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/cd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/cf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/cg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/cj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/ck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/cl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/cm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/cn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/co$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/co.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/d$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/d$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/e$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/e$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/e$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/e$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/e$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/e$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/f$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/f$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/f.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/g.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/h$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/h$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/h.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/i.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/j.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/k$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/k$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/k.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/l.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/m$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/m$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/m.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/n$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/n$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/n.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/o.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/p$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/p$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/p.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/q.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/r$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/r$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/r.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/s$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/s.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/t$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/t$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/t.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/u.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/v.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/w.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/x$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/x$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/x.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/y$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/y$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/y.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/z$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/z$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/internal/z.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/CameraUpdate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/CameraUpdateFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$CancelableCallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$InfoWindowAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$OnCameraChangeListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$OnInfoWindowClickListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$OnMapClickListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$OnMapLongClickListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$OnMarkerClickListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$OnMarkerDragListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$OnMyLocationChangeListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMapOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/GoogleMapOptionsCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/LocationSource$OnLocationChangedListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/LocationSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/MapFragment$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/MapFragment$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/MapFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/MapView$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/MapView$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/MapView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/MapsInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/Projection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/SupportMapFragment$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/SupportMapFragment$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/SupportMapFragment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/UiSettings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/ICameraUpdateFactoryDelegate$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/ICameraUpdateFactoryDelegate$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/ICameraUpdateFactoryDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IGoogleMapDelegate$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IGoogleMapDelegate$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IGoogleMapDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/ILocationSourceDelegate$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/ILocationSourceDelegate$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/ILocationSourceDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IMapFragmentDelegate$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IMapFragmentDelegate$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IMapFragmentDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IMapViewDelegate$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IMapViewDelegate$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IMapViewDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IProjectionDelegate$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IProjectionDelegate$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IProjectionDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IUiSettingsDelegate$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IUiSettingsDelegate$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/internal/IUiSettingsDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/BitmapDescriptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/BitmapDescriptorFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/CameraPosition$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/CameraPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/CameraPositionCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/CircleOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/CircleOptionsCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/GroundOverlay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/GroundOverlayOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/GroundOverlayOptionsCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/LatLng.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/LatLngBounds$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/LatLngBounds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/LatLngBoundsCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/LatLngCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/Marker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/MarkerOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/MarkerOptionsCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/Polygon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/PolygonOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/PolygonOptionsCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/Polyline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/PolylineOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/PolylineOptionsCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/RuntimeRemoteException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/Tile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/TileCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/TileOverlay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/TileOverlayOptions$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/TileOverlayOptions$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/TileOverlayOptions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/TileOverlayOptionsCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/TileProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/UrlTileProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/VisibleRegion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/VisibleRegionCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/internal/IPolylineDelegate$a$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/internal/IPolylineDelegate$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/maps/model/internal/IPolylineDelegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/panorama/PanoramaClient$OnPanoramaInfoLoadedListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/panorama/PanoramaClient$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/panorama/PanoramaClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/GooglePlusUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusClient$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusClient$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusClient$OnAccessRevokedListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusClient$OnMomentsLoadedListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusClient$OnPeopleLoadedListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusClient$OnPersonLoadedListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusClient$a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusClient$b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusOneButton$OnPlusOneClickListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusOneButton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusShare$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/PlusShare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/apps/ApplicationBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/moments/ItemScope$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/moments/ItemScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/moments/Moment$Builder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/moments/Moment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/moments/MomentBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$AgeRange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Collection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Cover$CoverInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Cover$CoverPhoto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Cover$Layout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Cover.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Emails$Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Emails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Gender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Image.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Name.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$ObjectType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$OrderBy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Organizations$Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Organizations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$PlacesLived.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$RelationshipStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Urls$Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person$Urls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/jarLibs/com/google/android/gms/plus/model/people/PersonBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/libs/google-play-services.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ane/libs/nativeApplovinExtension.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ane/libs/nativeApplovinExtension.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -798,7 +33,7 @@
     <session id="315037616">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="2" />
@@ -809,22 +44,24 @@
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.22" value="3" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.24" value="4" />
-          <entry key="project.open.time.26" value="2" />
-          <entry key="project.open.time.27" value="2" />
-          <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.24" value="6" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.27" value="3" />
+          <entry key="project.open.time.29" value="4" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.33" value="3" />
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.45" value="2" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -834,44 +71,44 @@
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.70" value="1" />
-          <entry key="project.opened" value="61" />
+          <entry key="project.opened" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="as" value="3" />
-          <entry key="swf" value="9" />
+          <entry key="as" value="6" />
+          <entry key="swf" value="10" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="ActionScript" value="3" />
-          <entry key="SWF" value="9" />
+          <entry key="ActionScript" value="6" />
+          <entry key="SWF" value="10" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="as" value="250" />
-          <entry key="xml" value="116" />
+          <entry key="as" value="922" />
+          <entry key="xml" value="117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ActionScript" value="250" />
-          <entry key="XML" value="116" />
+          <entry key="ActionScript" value="922" />
+          <entry key="XML" value="117" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="41" column="56" lean-forward="true" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+            <state relative-caret-position="102">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
               <folding>
                 <element signature="e#11#61#0" expanded="true" />
               </folding>
@@ -880,10 +117,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TabloTextField.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="e#10#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main-app.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="63" column="74" selection-start-line="63" selection-start-column="74" selection-end-line="63" selection-end-column="74" />
+            <state relative-caret-position="-134">
+              <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -900,7 +149,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>trace</find>
+      <find>button2</find>
+      <find>textField</find>
     </findStrings>
+    <replaceStrings>
+      <replace>button3</replace>
+      <replace>_rewardCounterTextField</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -910,6 +165,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/AppButton.as" />
         <option value="$PROJECT_DIR$/Main-app.xml" />
+        <option value="$PROJECT_DIR$/src/TabloTextField.as" />
         <option value="$PROJECT_DIR$/src/Main.as" />
       </list>
     </option>
@@ -931,6 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -956,9 +213,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -969,11 +225,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540317236442" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540824189292" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/applovin-sdk-8.1.4.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15234375" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
@@ -995,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Flash App.build .ANE &amp; run">
+  <component name="RunManager" selected="Flash App.run">
     <configuration name="build .ANE &amp; run" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="ASApplovinTest" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -1147,16 +403,28 @@
       <workItem from="1540749290212" duration="633000" />
       <workItem from="1540750464170" duration="965000" />
       <workItem from="1540807988590" duration="865000" />
+      <workItem from="1540810741489" duration="976000" />
+      <workItem from="1540812028606" duration="1014000" />
+      <workItem from="1540813357726" duration="1048000" />
+      <workItem from="1540815886679" duration="912000" />
+      <workItem from="1540816919639" duration="1142000" />
+      <workItem from="1540818231513" duration="598000" />
+      <workItem from="1540819449238" duration="1067000" />
+      <workItem from="1540820682553" duration="950000" />
+      <workItem from="1540822128279" duration="1146000" />
+      <workItem from="1540823331730" duration="758000" />
+      <workItem from="1540825819348" duration="1021000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44461000" />
+    <option name="totallyTimeSpent" value="55093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33131617" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17246597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1166,7 +434,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3846154" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37806875" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37806875" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1200,34 +468,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppButton.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="33" column="50" lean-forward="true" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main-app.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="63" column="74" selection-start-line="63" selection-start-column="74" selection-end-line="63" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../ane/applovinExtension.ane!/library.swf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppButton.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="41" column="56" lean-forward="true" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+        <state relative-caret-position="102">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
           <folding>
             <element signature="e#11#61#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TabloTextField.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#10#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main-app.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
         </state>
       </provider>
     </entry>

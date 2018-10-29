@@ -14,10 +14,9 @@ public class ApplovinInitFunction implements FREFunction {
     @Override
     public FREObject call(FREContext freContext, FREObject[] freObjects) {
         try {
-            AppLovinSdk.initializeSdk(freContext.getActivity().getApplicationContext());
+            AppLovinSdk.initializeSdk(freContext.getActivity());
             //preload reward ad
-            RewardedAdFunction.setContext(freContext.getActivity().getApplicationContext());
-            RewardedAdFunction.init();
+            RewardedAdFunction.init(freContext.getActivity().getApplicationContext());
         } catch (Exception e) {
             Log.e(ApplovinExtension.LOG_TYPE, e.getMessage());
         }

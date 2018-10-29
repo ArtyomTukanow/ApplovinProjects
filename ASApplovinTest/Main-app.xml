@@ -15,7 +15,7 @@
          Values can also be 1-part or 2-part. It is not necessary to have a 3-part value.
          An updated version of application must have a versionNumber value higher than the previous version. Required for namespace >= 2.5.
          For iOS Apps, this represents build number. -->
-    <versionNumber>0.0.0</versionNumber>
+    <versionNumber>0.0.1</versionNumber>
 
     <!-- Identifies the ActionScript extensions used by an application. -->
     <extensions>
