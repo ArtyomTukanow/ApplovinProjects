@@ -20,6 +20,8 @@ public class ApplovinExtensionContext extends FREContext {
         map.put("showToast", new ShowToastFunction());
         map.put("initializeSdk", new ApplovinInitFunction());
         map.put("nextAdd", new NextAdFunction());
+        map.put("rewardedAd", new RewardedAdFunction());
+        map.put("showTestActivity", new ShowTestActivityFunction());
         return map;
     }
 }

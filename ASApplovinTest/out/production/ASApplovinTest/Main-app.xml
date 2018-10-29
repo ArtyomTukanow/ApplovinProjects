@@ -36,8 +36,18 @@
                 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="18" />
                 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
-                <!--<uses-feature android:required="true" android:name="android.hardware.touchscreen.multitouch"/>-->
-                <application android:enabled="true">
+                <application
+                    android:enabled="true"
+                    android:debuggable="true"
+                    android:allowBackup="true">
+                    <activity android:excludeFromRecents="false">
+                        <intent-filter>
+                            <action android:name="android.intent.action.MAIN"/>
+                            <category android:name="android.intent.category.LAUNCHER"/>
+                        </intent-filter>
+                    </activity>
+                    <activity android:name="com.applovinextension.java.Activity.TestActivity"/>
+
                     <activity android:name="com.applovin.adview.AppLovinInterstitialActivity" android:configChanges="orientation|screenSize"/>
                     <activity android:name="com.applovin.adview.AppLovinConfirmationActivity" android:configChanges="orientation|screenSize"/>
 
@@ -47,6 +57,7 @@
 
                     <meta-data android:name="applovin.sdk.key"
                         android:value="D7z4ObaOQ9sK5kf7Xi4pKBim779r_TSBxFwZtc4zhhbE3cd7ei3T_DHPUGtWAKXq42WPaC1yMVGNRfM7QT3n3S"/>
+
                 </application>
             </manifest>]]></manifestAdditions>
   </android>

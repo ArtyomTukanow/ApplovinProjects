@@ -22,5 +22,13 @@ public class ApplovinExtension {
     public static function nextAdd():Object {
         return context.call("nextAdd");
     }
+
+    public static function rewardedAd():Object {
+        return context.call("rewardedAd");
+    }
+
+    public static function showTestActivity():Object {
+        return context.call("showTestActivity");
+    }
 }
 }

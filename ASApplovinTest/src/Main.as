@@ -22,14 +22,24 @@ public class Main extends Sprite {
         ApplovinExtension.init();
         ApplovinExtension.initializeSdk();
 
-        var button:AppButton = new AppButton("Нажми для теста");
-        addChild(button);
-        button.x = (stage.stageWidth - button.width) / 2;
-        button.y = (stage.stageHeight - button.height) / 2;
-        button.addEventListener(MouseEvent.CLICK, onButtonClick);
+        var button1:AppButton = new AppButton("Start test activity");
+        addChild(button1);
+        button1.x = (stage.stageWidth - button1.width) / 2;
+        button1.y = (stage.stageHeight - button1.height) / 4;
+        button1.addEventListener(MouseEvent.CLICK, onButtonClick1);
+
+        var button2:AppButton = new AppButton("Show AD");
+        addChild(button2);
+        button2.x = (stage.stageWidth - button2.width) / 2;
+        button2.y = (stage.stageHeight - button2.height) / 1.5;
+        button2.addEventListener(MouseEvent.CLICK, onButtonClick2);
     }
 
-    private function onButtonClick(e:MouseEvent):void {
+    private function onButtonClick1(e:MouseEvent):void {
+        trace(ApplovinExtension.showTestActivity());
+    }
+
+    private function onButtonClick2(e:MouseEvent):void {
         trace(ApplovinExtension.nextAdd());
     }
 

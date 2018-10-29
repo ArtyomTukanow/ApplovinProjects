@@ -1,11 +1,13 @@
 package com.applovinextension.java.functions;
 
 import android.content.Context;
+import android.util.Log;
 import android.widget.Toast;
 
 import com.adobe.fre.FREContext;
 import com.adobe.fre.FREFunction;
 import com.adobe.fre.FREObject;
+import com.applovinextension.java.ApplovinExtension;
 
 public class ShowToastFunction implements FREFunction {
     @Override
@@ -17,7 +19,7 @@ public class ShowToastFunction implements FREFunction {
             toast.show();
 
         } catch (Exception e) {
-            e.printStackTrace();
+            Log.e(ApplovinExtension.LOG_TYPE, e.getMessage());
         }
 
         return null;

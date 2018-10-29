@@ -4,7 +4,7 @@
         <platforms>
                 <platform name="Android-ARM">
                         <applicationDeployment>
-                                <nativeLibrary>nativeApplovinExtension.jar</nativeLibrary>
+                                <nativeLibrary>library.jar</nativeLibrary>
                                 <initializer>com.applovinextension.java.ApplovinExtension</initializer>
                                 <finalizer>com.applovinextension.java.ApplovinExtension</finalizer>
                         </applicationDeployment>

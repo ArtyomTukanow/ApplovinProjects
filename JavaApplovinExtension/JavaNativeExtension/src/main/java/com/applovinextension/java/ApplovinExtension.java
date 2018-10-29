@@ -5,6 +5,8 @@ import com.adobe.fre.FREExtension;
 
 public class ApplovinExtension implements FREExtension {
 
+    public static final String LOG_TYPE = "ApplovinExtension";
+
     @Override
     public FREContext createContext(String arg0) {
         return new ApplovinExtensionContext();
