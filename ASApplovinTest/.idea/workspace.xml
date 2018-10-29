@@ -2,25 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b29dedf-3b5b-4807-a2f0-f79184724567" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TabloTextField.as" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestKillMe/Main-app.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../killme/.idea/flexCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../killme/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../killme/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../killme/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../killme/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../killme/Main-app.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../killme/killme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../killme/src/Main.as" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ASApplovinExtension/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ASApplovinExtension/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASApplovinExtension/out/production/ASApplovinExtension/ASApplovinExtension.swc" beforeDir="false" afterPath="$PROJECT_DIR$/../ASApplovinExtension/out/production/ASApplovinExtension/ASApplovinExtension.swc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ASApplovinExtension/src/com/applovinextension/AS/ApplovinExtension.as" beforeDir="false" afterPath="$PROJECT_DIR$/../ASApplovinExtension/src/com/applovinextension/AS/ApplovinExtension.as" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main-app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Main-app.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ASApplovinTest/Main-app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ASApplovinTest/Main-app.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ASApplovinTest/Main.apk" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ASApplovinTest/Main.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ASApplovinTest/Main.swf" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ASApplovinTest/Main.swf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.as" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BUILD_ANE.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../BUILD_ANE.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/ApplovinInitFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/ApplovinInitFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/RewardedAdFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/RewardedAdFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/ShowTestActivityFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/JavaNativeExtension/src/main/java/com/applovinextension/java/functions/ShowTestActivityFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaApplovinExtension/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaApplovinExtension/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestKillMe/.idea/flexCompiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestKillMe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestKillMe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestKillMe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestKillMe/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestKillMe/Main-app.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestKillMe/TestKillMe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestKillMe/out/production/TestKillMe/Main-app.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestKillMe/out/production/TestKillMe/Main.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestKillMe/out/production/TestKillMe/Main.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestKillMe/src/Main.as" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ane/android/library.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ane/android/library.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ane/applovinExtension.ane" beforeDir="false" afterPath="$PROJECT_DIR$/../ane/applovinExtension.ane" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/extension.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ane/extension.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ane/libs/nativeApplovinExtension.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ane/libs/nativeApplovinExtension.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ane/libs/applovin-sdk-8.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ane/libs/play-services-ads-17.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ane/libs/play-services-ads-identifier.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ane/libs/play-services-basement.jar" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +43,7 @@
     <session id="315037616">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="2" />
@@ -44,6 +54,7 @@
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.22" value="3" />
           <entry key="project.open.time.23" value="1" />
@@ -71,7 +82,7 @@
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.70" value="1" />
-          <entry key="project.opened" value="72" />
+          <entry key="project.opened" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -107,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="340">
               <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
               <folding>
                 <element signature="e#11#61#0" expanded="true" />
@@ -119,7 +130,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TabloTextField.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
+            <state relative-caret-position="187">
               <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding>
                 <element signature="e#10#37#0" expanded="true" />
@@ -131,8 +142,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main-app.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-134">
-              <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+            <state relative-caret-position="204">
+              <caret line="60" column="87" lean-forward="true" selection-start-line="60" selection-start-column="87" selection-end-line="60" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -188,6 +199,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,8 +226,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Flash App.run">
+  <component name="RunManager" selected="Flash App.build .ANE &amp; run">
     <configuration name="build .ANE &amp; run" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="ASApplovinTest" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -414,17 +425,18 @@
       <workItem from="1540822128279" duration="1146000" />
       <workItem from="1540823331730" duration="758000" />
       <workItem from="1540825819348" duration="1021000" />
+      <workItem from="1540828249577" duration="460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55093000" />
+    <option name="totallyTimeSpent" value="55553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17246597" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17473525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -484,7 +496,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="340">
           <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
           <folding>
             <element signature="e#11#61#0" expanded="true" />
@@ -494,7 +506,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TabloTextField.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
+        <state relative-caret-position="187">
           <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding>
             <element signature="e#10#37#0" expanded="true" />
@@ -504,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main-app.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
-          <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+        <state relative-caret-position="204">
+          <caret line="60" column="87" lean-forward="true" selection-start-line="60" selection-start-column="87" selection-end-line="60" selection-end-column="87" />
         </state>
       </provider>
     </entry>
