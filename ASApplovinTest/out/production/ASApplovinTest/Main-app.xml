@@ -27,6 +27,7 @@
     <autoOrients>true</autoOrients>
     <!-- Whether the app launches in full screen. Optional. Mobile only. Default false -->
     <fullScreen>true</fullScreen>
+    <renderMode>GPU</renderMode>
   </initialWindow>
   <!-- Specify Android specific tags that get passed to AndroidManifest.xml file. -->
   <android>
