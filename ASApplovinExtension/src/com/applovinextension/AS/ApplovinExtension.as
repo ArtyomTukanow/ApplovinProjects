@@ -22,7 +22,7 @@ public class ApplovinExtension {
 
     public static function init():void {
         if(!_context) {
-            _context = ExtensionContext.createExtensionContext("com.applovinextension.xml", null);
+            _context = ExtensionContext.createExtensionContext("com.applovinextension.ane", null);
             _context.addEventListener(StatusEvent.STATUS, onStatus);
         }
     }

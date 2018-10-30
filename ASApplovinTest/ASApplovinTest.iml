@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="ASApplovinTest">
     <configurations>
-      <configuration name="ASApplovinTest" target-platform="Mobile" pure-as="true" main-class="Main" output-file="Main.swf" output-folder="$MODULE_DIR$/out/production/ASApplovinTest">
+      <configuration name="ASApplovinTest" target-platform="Mobile" pure-as="true" main-class="ApplovinTestMain" output-file="ApplovinTestMain.swf" output-folder="$MODULE_DIR$/out/production/ASApplovinTest">
         <dependencies target-player="31.0">
           <entries>
             <entry library-id="53fe2a80-49ae-484e-a9bf-757205125ffc">
@@ -11,9 +11,13 @@
           </entries>
           <sdk name="AIR_SDK" />
         </dependencies>
-        <compiler-options />
+        <compiler-options>
+          <map>
+            <entry key="compiler.debug.swf" value="false" />
+          </map>
+        </compiler-options>
         <packaging-air-desktop />
-        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/Main-app.xml" package-file-name="Main" />
+        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/Main-app.xml" package-file-name="ApplovinTest" />
         <packaging-ios package-file-name="Main" />
       </configuration>
     </configurations>

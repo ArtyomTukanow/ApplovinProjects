@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b29dedf-3b5b-4807-a2f0-f79184724567" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASApplovinTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ASApplovinTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main-app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Main-app.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ASApplovinTest/Main-app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ASApplovinTest/Main-app.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ASApplovinTest/Main.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ASApplovinTest/Main.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ASApplovinTest/apk4184090120475776151.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ASApplovinTest/apk7177087727519680993.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/ApplovinTestMain.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ane/android/library.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../ane/android/library.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ane/applovinExtension.ane" beforeDir="false" afterPath="$PROJECT_DIR$/../ane/applovinExtension.ane" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ane/extension.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ane/extension.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,9 +41,9 @@
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.22" value="3" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.24" value="6" />
+          <entry key="project.open.time.24" value="7" />
           <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.26" value="4" />
           <entry key="project.open.time.27" value="3" />
           <entry key="project.open.time.29" value="4" />
           <entry key="project.open.time.3" value="1" />
@@ -55,19 +65,19 @@
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.70" value="1" />
-          <entry key="project.opened" value="74" />
+          <entry key="project.opened" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="as" value="6" />
+          <entry key="as" value="7" />
           <entry key="swf" value="10" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="ActionScript" value="6" />
+          <entry key="ActionScript" value="7" />
           <entry key="SWF" value="10" />
           <entry key="XML" value="3" />
         </counts>
@@ -75,24 +85,24 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="as" value="922" />
-          <entry key="xml" value="119" />
+          <entry key="xml" value="152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="ActionScript" value="922" />
-          <entry key="XML" value="119" />
+          <entry key="XML" value="152" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.as">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ApplovinTestMain.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="153">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#11#61#0" expanded="true" />
               </folding>
@@ -101,22 +111,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TabloTextField.as">
+        <entry file="file://$PROJECT_DIR$/../ASApplovinExtension/src/com/applovinextension/AS/ApplovinExtension.as">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-              <folding>
-                <element signature="e#10#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="92">
+              <caret line="25" column="62" lean-forward="true" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main-app.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="51" column="77" lean-forward="true" selection-start-line="51" selection-start-column="77" selection-end-line="51" selection-end-column="77" />
+            <state relative-caret-position="612">
+              <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -150,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/AppButton.as" />
         <option value="$PROJECT_DIR$/src/TabloTextField.as" />
         <option value="$PROJECT_DIR$/src/Main.as" />
+        <option value="$PROJECT_DIR$/src/ApplovinTestMain.as" />
         <option value="$PROJECT_DIR$/Main-app.xml" />
       </list>
     </option>
@@ -171,7 +179,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -198,7 +206,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Flash App.run">
+  <component name="RunManager" selected="Flash App.build .ANE &amp; run">
     <configuration name="build .ANE &amp; run" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="ASApplovinTest" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -399,18 +407,19 @@
       <workItem from="1540823331730" duration="758000" />
       <workItem from="1540825819348" duration="1021000" />
       <workItem from="1540828249577" duration="460000" />
-      <workItem from="1540884454682" duration="680000" />
+      <workItem from="1540884454682" duration="935000" />
+      <workItem from="1540885822721" duration="1132000" />
+      <workItem from="1540887045649" duration="527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56233000" />
+    <option name="totallyTimeSpent" value="58147000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17700455" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18154311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -420,7 +429,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3846154" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37806875" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37806875" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -446,6 +455,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$PROJECT_DIR$/src/ApplovinTestMain.as</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://$USER_HOME$/work/AIR_SDK/frameworks/libs/air/airglobal.swc!/library.swf">
       <provider selected="true" editor-type-id="text-editor">
@@ -468,13 +488,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.as">
+    <entry file="file://$PROJECT_DIR$/Main-app.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="e#11#61#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="612">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -488,10 +505,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main-app.xml">
+    <entry file="file://$PROJECT_DIR$/../ASApplovinExtension/src/com/applovinextension/AS/ApplovinExtension.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="51" column="77" lean-forward="true" selection-start-line="51" selection-start-column="77" selection-end-line="51" selection-end-column="77" />
+        <state relative-caret-position="92">
+          <caret line="25" column="62" lean-forward="true" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ApplovinTestMain.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#11#61#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

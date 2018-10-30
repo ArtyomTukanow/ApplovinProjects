@@ -1,5 +1,5 @@
 <extension xmlns="http://ns.adobe.com/air/extension/31.0">
-        <id>com.applovinextension.xml</id>
+        <id>com.applovinextension.ane</id>
         <versionNumber>2</versionNumber>
         <platforms>
                 <platform name="Android-ARM">
